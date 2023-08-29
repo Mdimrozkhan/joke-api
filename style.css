@@ -1,0 +1,14 @@
+.by{
+    height: 100%;
+    width: 100%;
+    
+}
+#joke{
+    background-color: rgb(209, 17, 209);
+    color: #100f0f;
+    font-size: 1.5em;
+    font-family: Helvetica;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
